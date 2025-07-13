@@ -36,3 +36,17 @@ A React-based web application built for PT Aksamedia Mulia Digital's frontend de
 git clone https://github.com/your-repo.git
 cd project-folder
 npm install
+
+🔑 Login Credentials
+Username	Password
+admin	admin123
+user	user123
+📂 Project Structure
+text
+src/
+├── components/
+├── pages/
+├── utils/
+├── App.jsx
+├── main.jsx
+└── index.css
