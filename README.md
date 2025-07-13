@@ -1,12 +1,38 @@
-# React + Vite
+# Frontend Developer Intern Test - PT Aksamedia Mulia Digital
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Overview
+A React-based web application built for PT Aksamedia Mulia Digital's frontend developer internship test. Implements authentication, CRUD operations, and theme switching with full responsiveness.
 
-Currently, two official plugins are available:
+## ✨ Features
+- **Authentication System**
+  - Login/logout functionality
+  - Protected routes
+  - User session persistence
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **CRUD Operations**
+  - Create, Read, Update, Delete
+  - Search and filter
+  - Custom pagination
 
-## Expanding the ESLint configuration
+- **UI/UX**
+  - Dark/light mode + system preference
+  - Responsive design (mobile/tablet/desktop)
+  - Custom components (no UI libraries)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies
+- React.js
+- Tailwind CSS
+- React Router
+- LocalStorage API
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js v16+
+- npm or yarn
+
+### Installation
+```bash
+git clone https://github.com/your-repo.git
+cd project-folder
+npm install
